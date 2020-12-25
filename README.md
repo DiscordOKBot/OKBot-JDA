@@ -1,2 +1,2 @@
-# OBot-JDA
-Implementation of OBot-API in JDA Discord Library.
+# OKBot-JDA
+Implementation of OKBot-API in JDA Discord Library.
